@@ -1,0 +1,11 @@
+{
+    "music": [
+        {"id": "Torture", "name": "'Torture'.inc('a')", "author": "'Austin Mahone'"},
+        {"id": "Snow_Dayy", "name": "'Snow Dayy'.inc('a')", "author": "'The Tunnel'"},
+        {"id": "Advanture", "name": "'Advanture'.inc('Y')"},
+        {"id": "Breezy_Street", "name": "'Breezy Street'.inc('a')"},
+        {"id": "Flight_Man", "name": "'Flight Man'.inc('p')"},
+        {"id": "Carrier32", "name": "'Carrier32'.inc('p')", "author": "'Monto'.inc('r')"},
+        {"id": "Mindful", "name": "'Mindful'.inc('p')", "author": "'Ronald Jenkees'.inc('r')"}
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "backgrounds": [
+        {"from": "dev.png", "name": "设备"},
+        {"from": "sky.png", "name": "天空"},
+        {"from": "legend.png", "name": "传奇"},
+        {"from": "sea_wave.png", "name": "海浪"},
+        {"from": "white_mot.png", "name": "白山"},
+        {"from": "aqua_mot.png", "name": "青山"},
+        {"from": "purple_mot.png", "name": "紫山"},
+        {"from": "wolf_mot.png", "name": "狼山"},
+        {"from": "hask.png", "name": "哈斯"},
+        {"from": "globe.png", "name": "球体"},
+        {"from": "dusk.png", "name": "黄昏"},
+        {"from": "tree.png", "name": "树苗"},
+        {"from": "brisand.png", "name": "夜晚"},
+        {"from": "plants.png", "name": "行星"},
+        {"from": "long.png", "name": "长版"},
+        {"from": "flov.png", "name": "支持"},
+        {"from": "oldbgp.svg", "name": "旧版"}
+    ]
+}
